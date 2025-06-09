@@ -66,7 +66,7 @@ terminal-type
 To set up for development:
 
 ```bash
-git clone https://github.com/yourusername/terminal-typist.git
+git clone https://github.com/dharmateja03/terminal-typist.git
 cd terminal-typist
 pip install -e .
 ```
