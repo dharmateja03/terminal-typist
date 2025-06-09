@@ -1,0 +1,3 @@
+include README.md
+include LICENSE
+recursive-include terminal_typist/data *.txt
